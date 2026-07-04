@@ -1,2 +1,2 @@
 # DECODE-LABS
-A comprehensive repository of my projects as a Junior Python Developer Intern at DecodeLabs. 
+A comprehensive repository of my projects as a Prompt Engineer Intern at DecodeLabs. 
